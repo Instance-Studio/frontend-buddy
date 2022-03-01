@@ -25,7 +25,10 @@ function ListItem({ id, text, isChecked }: Props) {
           onClick={onClick}
           id={id}
         />
-        <span className={isChecked ? "text-slate-600" : ""}>{text}</span>
+        <span
+          className={isChecked ? "text-slate-600" : ""}
+          dangerouslySetInnerHTML={{ __html: text }}
+        ></span>
       </label>
     </li>
   );

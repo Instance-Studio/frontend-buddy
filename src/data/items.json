@@ -20,6 +20,76 @@
       "category": "html",
       "projectBudget": "high",
       "isChecked": false
+    },
+    {
+      "id": "4",
+      "text": "WP_DEBUG is set to false",
+      "category": "wordpress",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "5",
+      "text": "Salts are generated <a target='_blank' href='https://api.wordpress.org/secret-key/1.1/salt/'>Get Salts</a>",
+      "category": "wordpress",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "6",
+      "text": "Branch main is up to date",
+      "category": "git",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "7",
+      "text": "Release is finished and tag is pushed up to GitHub",
+      "category": "git flow",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "8",
+      "text": "Doctype: The Doctype is HTML5 and is at the top of all your HTML pages.",
+      "category": "head",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "9",
+      "text": "Charset: The charset declared (UTF-8) is declared correctly..",
+      "category": "head",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "10",
+      "text": "Viewport: The viewport is declared correctly.",
+      "category": "head",
+      "projectBudget": "high",
+      "isChecked": false
+    },
+    {
+      "id": "11",
+      "text": "Title: A title is used on all pages",
+      "category": "head",
+      "projectBudget": "high",
+      "isChecked": false
+    },
+    {
+      "id": "12",
+      "text": "Favicons: Each favicon has been created and displays correctly.",
+      "category": "head",
+      "projectBudget": "high",
+      "isChecked": false
+    },
+    {
+      "id": "13",
+      "text": "Facebook Open Graph <a target='_blank' href='https://metatags.io/'>metatags.io</a>",
+      "category": "head",
+      "projectBudget": "high",
+      "isChecked": false
     }
   ]
 }
