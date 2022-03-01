@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "text": "Doctype: The Doctype is HTML5 and is at the top of all your HTML pages.",
+      "category": "head",
+      "projectBudget": "low",
+      "isChecked": false
+    },
+    {
+      "id": "2",
+      "text": "Charset: The charset declared (UTF-8) is declared correctly.",
+      "category": "head",
+      "projectBudget": "medium",
+      "isChecked": false
+    },
+    {
+      "id": "3",
+      "text": "HTML5 Semantic Elements: HTML5 Semantic Elements are used appropriately (header, section, footer, main...).",
+      "category": "html",
+      "projectBudget": "high",
+      "isChecked": false
+    }
+  ]
+}
